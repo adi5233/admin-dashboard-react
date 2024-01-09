@@ -17,7 +17,7 @@ function App() {
     };
 
     fetchData();
-  }, []);
+  }, [dispatch]);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -29,7 +29,7 @@ function App() {
     };
 
     fetchData();
-  }, []);
+  }, [dispatch]);
 
   return (
     <div className="bg-slate-50">
