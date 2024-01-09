@@ -7,7 +7,7 @@ import InventoryDetails from "./InventoryDetails";
 
 const Charts = () => {
   return (
-    <div className="flex m-5 flex-col gap-5 p-5">
+    <div className="flex m-5 flex-col gap-5 p-1 lg:p-5">
       <div>
         <InventoryDetails />
       </div>
