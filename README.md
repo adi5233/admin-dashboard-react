@@ -6,3 +6,6 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+Live Link - https://admin-dashboard-dilfoods.netlify.app/
+Github Repo - https://github.com/adi5233/admin-dashboard-react
